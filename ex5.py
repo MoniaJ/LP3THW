@@ -20,4 +20,3 @@ print(f"His teeth is usually {teeth} depending on the coffee.")
 total = age + height_in_inches + weight_in_pounds
 print(f"If I add {age}, {height_in_inches}, and {weight_in_pounds} I get {total}.")
 
-#str.51 dokończyć
